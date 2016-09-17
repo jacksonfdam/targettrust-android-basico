@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carros">
+        <item >Buggati Vyron</item>
+        <item >LaFerrari</item>
+    </string-array>
+    
+</resources>
