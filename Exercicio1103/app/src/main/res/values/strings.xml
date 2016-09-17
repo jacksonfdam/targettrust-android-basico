@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">catalogo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sobre">Settings</string>
+    <string name="action_adicionar">Adicionar</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="action_excluir">Excluir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="title_activity_detail">Detalhe</string>
+
+</resources>

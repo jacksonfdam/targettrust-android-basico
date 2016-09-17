@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+         >
+       
+        <!-- User Name Label -->
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="User Name:"
+            android:padding="10dip"
+            android:textColor="#33B5E5" />
+        
+        <!--  User Name Text Field -->
+        <EditText
+            android:id="@+id/Enter"
+            android:hint="Please Enter a Name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        
+         <!--  Text View to display the returned age or a error message -->
+        <TextView   android:id="@+id/Results"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="User Age:"
+                    android:textColor="#99CC00"
+                    android:padding="10dip"
+                    android:textStyle="bold"/>
+ 
+        <!-- Button to fire the getAge Method-->
+        <Button
+            android:id="@+id/GetAge"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:text="Get Age" />
+ 
+        
+    </LinearLayout>

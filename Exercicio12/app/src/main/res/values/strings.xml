@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidSpinnerFromSQLiteActivity!</string>
+    <string name="app_name">AndroidSpinnerFromSQLite</string>
+    <string name="spinner_title">Select Label</string>
+
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="horizontal" >
+
+    <!-- Bloco 1 -->
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#eeeeee"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <!-- Fragment 1
+        <fragment
+            android:id="@+id/frag1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp"
+            class="br.com.suelengc.devfest.fragments.example0.Fragment1" /> -->
+            
+        <FrameLayout
+            android:id="@+id/frame1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="5dp" />
+            
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="2"
+        android:orientation="vertical" >
+
+        <!-- Bloco 2 -->
+        <LinearLayout
+            android:id="@+id/layout2"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#eeeeee"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <!-- Fragment 2 -->
+            <fragment
+                android:id="@+id/frag2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                class="br.com.targettrust.fragments.example0.Fragment2" />
+        </LinearLayout>
+        
+        <!-- Bloco 3 -->
+        <LinearLayout
+            android:id="@+id/layout3"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:background="#eeeeee"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <!-- Fragment 3 -->
+            <fragment
+                android:id="@+id/frag3"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                class="br.com.targettrust.fragments.example0.Fragment3" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
