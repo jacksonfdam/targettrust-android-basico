@@ -1,0 +1,25 @@
+List< Map<String, String> > list = new ArrayList< Map <String, String>>();
+
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Beagle" );map.put("arquivo", "beagle");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Border Collie" );map.put("arquivo", "border_collie");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Boxer" );map.put("arquivo", "boxer");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Buldogue Frances" );map.put("arquivo", "buldogue_frances");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Buldogue Ingles" );map.put("arquivo", "buldogue_ingles");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Chow chow" );map.put("arquivo", "chow-chow");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Cocker Spaniel Ingles" );map.put("arquivo", "cocker_spaniel_ingles");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Dachshund" );map.put("arquivo", "dachshund");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Gato Exotico" );map.put("arquivo", "gato_exotico");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Gato Himalaio" );map.put("arquivo", "gato_himalaio");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Gato Persa" );map.put("arquivo", "gato_persa");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Golden Retrivier" );map.put("arquivo", "golden_retrivier");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Labrador" );map.put("arquivo", "labrador");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Lhasa Apso" );map.put("arquivo", "lhasa_apso");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Maltes" );map.put("arquivo", "maltes");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Poodle" );map.put("arquivo", "poodle");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Pug" );map.put("arquivo", "pug");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Schnauzer" );map.put("arquivo", "schnauzer");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Scottish Terrier" );map.put("arquivo", "scottish_terrier");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Shar Pei" );map.put("arquivo", "shar_pei");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Shih Tzu" );map.put("arquivo", "shih_tzu");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "West Highland White Terrier" );map.put("arquivo", "west_highland_white_terrier");list.add(map);
+Map<String, String> map = new HashMap<String, String>();map.put("Nome", "Yorkshire" );map.put("arquivo", "yorkshire");list.add(map);
