@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExemploListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_atividade1">Atividade1</string>
+    <string name="title_activity_atividade2">Atividade2</string>
+
+</resources>
