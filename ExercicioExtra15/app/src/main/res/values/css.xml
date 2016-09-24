@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textView1_css">
+        <item name="android:padding">@dimen/vinte_dp</item>
+        <item name="android:background">@color/amarelo</item>
+        <item name="android:textColor">@color/vermelho</item>
+    </style>
+    <style parent="textView1_css" name="textView2_css">
+        <item name="android:textSize">@dimen/vinte_e_cinco_dp</item>
+        <item name="android:layout_margin">@dimen/vinte_dp</item>
+    </style>
+    
+</resources>

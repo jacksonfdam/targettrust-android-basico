@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vinte_dp">20dp</dimen>
+    <dimen name="vinte_e_cinco_dp">25dp</dimen>
+    
+</resources>
